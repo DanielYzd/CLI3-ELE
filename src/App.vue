@@ -1,7 +1,15 @@
+<!--
+ * @Author: your name
+ * @Date: 2020-09-16 16:21:22
+ * @LastEditTime: 2020-09-16 16:37:34
+ * @LastEditors: Please set LastEditors
+ * @Description: In User Settings Edit
+ * @FilePath: /cli3-ele/src/App.vue
+-->
 <template>
   <div id="app">
     <div id="nav">
-      <router-link to="/">Home</router-link> |
+      <router-link to="/">Home</router-link>
       <router-link to="/about">About</router-link>
     </div>
     <router-view />
